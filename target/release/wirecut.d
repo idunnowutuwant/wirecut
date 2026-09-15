@@ -1,0 +1,1 @@
+C:\Users\idnwuw\Desktop\wirecut\target\release\wirecut.exe: C:\Users\idnwuw\Desktop\wirecut\src\ast.rs C:\Users\idnwuw\Desktop\wirecut\src\bench.rs C:\Users\idnwuw\Desktop\wirecut\src\jit.rs C:\Users\idnwuw\Desktop\wirecut\src\lib.rs C:\Users\idnwuw\Desktop\wirecut\src\main.rs C:\Users\idnwuw\Desktop\wirecut\src\manifold.rs C:\Users\idnwuw\Desktop\wirecut\src\verify.rs
